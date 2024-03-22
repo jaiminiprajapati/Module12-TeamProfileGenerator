@@ -8,8 +8,6 @@ Welcome to the Team Builder CLI Application! This command-line tool helps you ef
 
 ## Links 📜
 
-[Deployed Application]()
-
 [GitHub Repo](https://github.com/jaiminiprajapati/Module12-TeamProfileGenerator)
 
 
