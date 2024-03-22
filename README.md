@@ -1,5 +1,9 @@
 # Module12-TeamProfileGenerator
 
+Note: The HTML file and the CSS file were provided by the Instructor/TA. Further changes were made to add the functionality in the javascript file for the working of the application.
+
+## Overview
+
 Welcome to the Team Builder CLI Application! This command-line tool helps you effortlessly create a team profile webpage for your software engineering team. By following the prompts, you can quickly generate an HTML file showcasing your team members' information.
 
 ## Links 📜
